@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del prepcourse de Henry
+JONATHAN EMANUEL GONZALEZ CHAVEZ
+Este proyecto es una prueba de como crar un repositorio y clonarlo desde GitHuba mi escritorio local
